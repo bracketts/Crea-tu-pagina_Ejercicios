@@ -23,13 +23,15 @@ p {
 }
 
 p {
-  max-width: 30%;
+  max-width: 60%;
+  width: 1200px;
 }
 
 img {
-  width: 10%;
+  max-width: 15%;
+  width: 200px;
   border-radius: 50%;
-  margin: 25px;
+  margin: 25px 25px 0;
 }
 
 /* Por el momento no te preocupes de entender que son estas propiedades, solo las agregue para darle un poco de estilo a nuestra página */
