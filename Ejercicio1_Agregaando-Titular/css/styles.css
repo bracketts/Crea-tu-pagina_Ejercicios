@@ -22,8 +22,14 @@ p {
   margin-left: 25px;
 }
 
+p {
+  max-width: 30%;
+}
+
 img {
   width: 10%;
   border-radius: 50%;
   margin: 25px;
 }
+
+/* Por el momento no te preocupes de entender que son estas propiedades, solo las agregue para darle un poco de estilo a nuestra página */
