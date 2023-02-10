@@ -1,0 +1,26 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+Body {
+  padding: 0;
+  margin: 0;
+}
+
+h1,
+p {
+  padding: 0 15px;
+  margin-left: 25px;
+}
+
+img {
+  width: 10%;
+  border-radius: 50%;
+  margin: 25px;
+}
