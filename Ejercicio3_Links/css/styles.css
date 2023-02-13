@@ -1,0 +1,44 @@
+/* Reset */
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+/* General styling */
+Body {
+  padding: 0;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+p {
+  padding: 0 15px;
+  margin-left: 25px;
+}
+
+p {
+  max-width: 60%;
+  width: 1200px;
+}
+
+img {
+  max-width: 15%;
+  height: auto;
+  border-radius: 50%;
+  margin: 25px 25px 0;
+}
+
+ul,
+ol {
+  padding: 0 25px;
+  margin-left: 40px;
+}
+/* Por el momento no te preocupes de entender que son estas propiedades, solo las agregue para darle un poco de estilo a nuestra página */
